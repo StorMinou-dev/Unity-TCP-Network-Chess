@@ -1,5 +1,5 @@
 # Unity-TCP-Network-Chess
-*3 weeks*, *2025*, *Unity*, *Game*, *Group*, *TCP*, *Network*
+*3 weeks*, *2025*, *Unity*, *Game*, *Group*, *TCP*, *Network*, *C#*
 
 
 ### Project Name : **TCP Chess**
