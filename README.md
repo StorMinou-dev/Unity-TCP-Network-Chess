@@ -7,6 +7,8 @@
 with online hosting via TCP made in Unity.  
 *Authors* : Aodrenn, Tyfenn  
 
+        
+  
 **Gameplay**  
 This project is a multiplayer chess game developed in Unity.  
 It was made by a team of two and focuses on TCP networking  
@@ -14,7 +16,7 @@ and real-time synchronization between players.
 Two players can connect remotely and play a full game of chess  
 with synchronized game states.  
 
-[Gameplay Image]  
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/09b7899b-efe5-4a8e-9cc7-cda4945031be" />    
 
 
 **Networking**  
